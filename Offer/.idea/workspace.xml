@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="468173f4-7b3c-495a-ab1e-ebf3d80b6722" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Offer/META-INF/Offer.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/company/FindMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/company/FindMedianSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LongestPalindrome.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestPalindrome">
+  <component name="RunManager" selected="Application.Convert">
+    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Convert" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.FindMedianSortedArrays" />
       <module name="Offer" />
@@ -100,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Convert" />
         <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.FindMedianSortedArrays" />
         <item itemvalue="Application.LengthOfLongestSubstring" />
@@ -160,6 +171,11 @@
           <url>file://$PROJECT_DIR$/src/com/company/LongestPalindrome.java</url>
           <line>24</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Convert.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

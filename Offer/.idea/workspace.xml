@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsPalindrome">
+  <component name="RunManager" selected="Application.MaxArea">
     <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Convert" />
       <module name="Offer" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.LongestPalindrome" />
+    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MaxArea" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxArea" />
         <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.MyAtoi" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.Convert" />
-        <item itemvalue="Application.LongestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +214,16 @@
           <url>file://$PROJECT_DIR$/src/com/company/IsPalindrome.java</url>
           <line>22</line>
           <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MaxArea.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MaxArea.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyAtoi">
+  <component name="RunManager" selected="Application.IsPalindrome">
     <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Convert" />
       <module name="Offer" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FindMedianSortedArrays" />
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.IsPalindrome" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.MyAtoi" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.Convert" />
         <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.FindMedianSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +199,21 @@
           <url>file://$PROJECT_DIR$/src/com/company/MyAtoi.java</url>
           <line>27</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/IsPalindrome.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/IsPalindrome.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/IsPalindrome.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

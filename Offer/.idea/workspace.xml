@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="209" />
+    <option name="myElementSize" value="216" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntToRoman">
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
     <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.IntToRoman" />
       <module name="Offer" />
@@ -72,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LongestCommonPrefix" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.MaxArea" />
       <module name="Offer" />
@@ -85,21 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.MyAtoi" />
-      <module name="Offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Reverse" />
+    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.RomanToInt" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.RomanToInt" />
         <item itemvalue="Application.IntToRoman" />
         <item itemvalue="Application.MaxArea" />
         <item itemvalue="Application.IsPalindrome" />
-        <item itemvalue="Application.MyAtoi" />
-        <item itemvalue="Application.Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -226,19 +226,19 @@
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/IntToRoman.java</url>
-          <line>142</line>
-          <option name="timeStamp" value="81" />
+          <url>file://$PROJECT_DIR$/src/com/company/RomanToInt.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/IntToRoman.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="82" />
+          <url>file://$PROJECT_DIR$/src/com/company/RomanToInt.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/IntToRoman.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="83" />
+          <url>file://$PROJECT_DIR$/src/com/company/LongestCommonPrefix.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -250,6 +250,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Offer$LongestPalindrome.ic" NAME="LongestPalindrome Coverage Results" MODIFIED="1574246909657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Offer$LongestCommonPrefix.ic" NAME="LongestCommonPrefix Coverage Results" MODIFIED="1574740972256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.company.*</FILTER>
     </SUITE>
   </component>

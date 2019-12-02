@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="468173f4-7b3c-495a-ab1e-ebf3d80b6722" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/company/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/company/LongestCommonPrefix.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,22 +46,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestCommonPrefix">
+  <component name="RunManager" selected="Application.ThreeSum">
     <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.IntToRoman" />
-      <module name="Offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.IsPalindrome" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
@@ -111,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ThreeSum" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.RomanToInt" />
         <item itemvalue="Application.IntToRoman" />
         <item itemvalue="Application.MaxArea" />
-        <item itemvalue="Application.IsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +241,26 @@
           <line>44</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ThreeSum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ThreeSum.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ThreeSum.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ThreeSum.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -253,6 +274,9 @@
       <FILTER>com.company.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Offer$LongestCommonPrefix.ic" NAME="LongestCommonPrefix Coverage Results" MODIFIED="1574740972256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Offer$ThreeSum.ic" NAME="ThreeSum Coverage Results" MODIFIED="1574749207033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.company.*</FILTER>
     </SUITE>
   </component>
